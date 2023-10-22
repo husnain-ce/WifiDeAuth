@@ -1,0 +1,281 @@
+[{
+        "SSID": "HCT-STAFF",
+        "Channel": 1,
+        "ENCR": "WPA2",
+        "Power": -41,
+        "BSSID": "68:CA:E4:42:6C:22"
+    },
+    {
+        "SSID": "HCT-STUDENTS",
+        "Channel": 1,
+        "ENCR": "WPA2",
+        "Power": -39,
+        "BSSID": "68:CA:E4:42:6C:23"
+    },
+    {
+        "SSID": "HCT-GUEST",
+        "Channel": 1,
+        "ENCR": "OPN",
+        "Power": -42,
+        "BSSID": "68:CA:E4:42:6C:24"
+    },
+    {
+        "SSID": "HCT-CONSULTANTS",
+        "Channel": 1,
+        "ENCR": "WPA2",
+        "Power": -42,
+        "BSSID": "68:CA:E4:42:6C:29"
+    },
+    {
+        "SSID": "HCT-CONSULTANTS",
+        "Channel": 1,
+        "ENCR": "WPA2",
+        "Power": -77,
+        "BSSID": "00:7E:95:C0:68:C9"
+    },
+    {
+        "SSID": "HCT-STUDENTS",
+        "Channel": 1,
+        "ENCR": "WPA2",
+        "Power": -75,
+        "BSSID": "68:CA:E4:44:7D:03"
+    },
+    {
+        "SSID": "HCT-STUDENTS",
+        "Channel": 1,
+        "ENCR": "WPA2",
+        "Power": -80,
+        "BSSID": "00:7E:95:C0:68:C3"
+    },
+    {
+        "SSID": "HCT-GUEST",
+        "Channel": 1,
+        "ENCR": "OPN",
+        "Power": -75,
+        "BSSID": "68:CA:E4:44:7D:04"
+    },
+    {
+        "SSID": "HCT-CONSULTANTS",
+        "Channel": 1,
+        "ENCR": "WPA2",
+        "Power": -67,
+        "BSSID": "68:CA:E4:44:7D:09"
+    },
+    {
+        "SSID": "HCT-GUEST",
+        "Channel": 1,
+        "ENCR": "OPN",
+        "Power": -76,
+        "BSSID": "00:7E:95:C0:68:C4"
+    },
+    {
+        "SSID": "HCT-STAFF",
+        "Channel": 1,
+        "ENCR": "WPA2",
+        "Power": -75,
+        "BSSID": "68:CA:E4:44:7D:02"
+    },
+    {
+        "SSID": "ADMC-CIS-T001",
+        "Channel": 13,
+        "ENCR": "WEP",
+        "Power": -23,
+        "BSSID": "00:1A:E3:03:0F:C0"
+    },
+    {
+        "SSID": "HCT-GUEST",
+        "Channel": 11,
+        "ENCR": "OPN",
+        "Power": -60,
+        "BSSID": "68:CA:E4:3F:A8:C4"
+    },
+    {
+        "ssid": "HCT-STUDENTS",
+        "channel": 11,
+        "security": "WPA2",
+        "signal_strength": -53,
+        "BSSID": "68:CA:E4:43:FA:83"
+    },
+    {
+        "ssid": "HCT-STAFF",
+        "channel": 6,
+        "security": "WPA2",
+        "signal_strength": -64,
+        "BSSID": "68:CA:E4:3F:97:22"
+    },
+    {
+        "ssid": "HCT-STUDENTS",
+        "channel": 11,
+        "security": "WPA2",
+        "signal_strength": -59,
+        "BSSID": "68:CA:E4:3F:A8:C3"
+    },
+    {
+        "ssid": "HCT-STAFF",
+        "channel": 11,
+        "security": "WPA2",
+        "signal_strength": -53,
+        "BSSID": "68:CA:E4:43:FA:82"
+    },
+    {
+        "ssid": "HCT-GUEST",
+        "channel": 11,
+        "security": "OPN",
+        "signal_strength": -54,
+        "BSSID": "9C:7D:A3:BC:E0:38"
+    },
+    {
+        "ssid": "HCT-CONSULTANTS",
+        "channel": 11,
+        "security": "WPA2",
+        "signal_strength": -53,
+        "BSSID": "68:CA:E4:43:FA:89"
+    },
+    {
+        "ssid": "HCT-COMMON",
+        "channel": 11,
+        "security": "OPN",
+        "signal_strength": -53,
+        "BSSID": "68:CA:E4:43:FA:87"
+    },
+    {
+        "ssid": "HCT-COMMON",
+        "channel": 11,
+        "security": "OPN",
+        "signal_strength": -62,
+        "BSSID": "68:CA:E4:3F:A8:C7"
+    },
+    {
+        "ssid": "HCT-STAFF",
+        "channel": 11,
+        "security": "WPA2",
+        "signal_strength": -62,
+        "BSSID": "68:CA:E4:3F:A8:C2"
+    },
+    {
+        "ssid": "HCT-CONSULTANTS",
+        "channel": 11,
+        "security": "WPA2",
+        "signal_strength": -58,
+        "BSSID": "68:CA:E4:3F:A8:C9"
+    },
+    {
+        "ssid": "HCT-STUDENTS",
+        "channel": 6,
+        "security": "WPA2",
+        "signal_strength": -62,
+        "BSSID": "68:CA:E4:43:FA:E3"
+    },
+    {
+        "ssid": "HCT-STUDENTS",
+        "channel": 6,
+        "security": "WPA2",
+        "signal_strength": -66,
+        "BSSID": "68:CA:E4:43:FB:03"
+    },
+    {
+        "ssid": "HCT-GUEST",
+        "channel": 6,
+        "security": "OPN",
+        "signal_strength": -63,
+        "BSSID": "68:CA:E4:3F:97:24"
+    },
+    {
+        "ssid": "HCT-STAFF",
+        "channel": 6,
+        "security": "WPA2",
+        "signal_strength": -70,
+        "BSSID": "68:CA:E4:3F:9F:02"
+    },
+    {
+        "ssid": "HCT-GUEST",
+        "channel": 6,
+        "security": "OPN",
+        "signal_strength": -74,
+        "BSSID": "68:CA:E4:3F:E0:24"
+    },
+    {
+        "ssid": "HCT-STAFF",
+        "channel": 6,
+        "security": "WPA2",
+        "signal_strength": -68,
+        "BSSID": "68:CA:E4:43:FB:02"
+    },
+    {
+        "ssid": "HCT-STAFF",
+        "channel": 6,
+        "security": "WPA2",
+        "signal_strength": -65,
+        "BSSID": "68:CA:E4:43:FA:E2"
+    },
+    {
+        "ssid": "HCT-CONSULTANTS",
+        "channel": 6,
+        "security": "WPA2",
+        "signal_strength": -65,
+        "BSSID": "68:CA:E4:3F:97:29"
+    },
+    {
+        "ssid": "HCT-GUEST",
+        "channel": 6,
+        "security": "OPN",
+        "signal_strength": -69,
+        "BSSID": "68:CA:E4:43:FB:04"
+    },
+    {
+        "ssid": "HCT-GUEST",
+        "channel": 6,
+        "security": "OPN",
+        "signal_strength": -67,
+        "BSSID": "68:CA:E4:43:FA:E4"
+    },
+    {
+        "ssid": "HCT-CONSULTANTS",
+        "channel": 6,
+        "security": "WPA2",
+        "signal_strength": -65,
+        "BSSID": "68:CA:E4:43:FB:09"
+    },
+    {
+        "ssid": "HCT-CONSULTANTS",
+        "channel": 6,
+        "security": "WPA2",
+        "signal_strength": -66,
+        "BSSID": "68:CA:E4:43:FA:E9"
+    },
+    {
+        "ssid": "HCT-STUDENTS",
+        "channel": 6,
+        "security": "WPA2",
+        "signal_strength": -62,
+        "BSSID": "68:CA:E4:3F:97:23"
+    },
+    {
+        "ssid": "HCT-GUEST",
+        "channel": 6,
+        "security": "OPN",
+        "signal_strength": -67,
+        "BSSID": "68:CA:E4:3F:9F:04"
+    },
+    {
+        "ssid": "HCT-CONSULTANTS",
+        "channel": 6,
+        "security": "WPA2",
+        "signal_strength": -77,
+        "BSSID": "68:CA:E4:3F:E0:29"
+    },
+    {
+        "ssid": "HCT-STUDENTS",
+        "channel": 6,
+        "security": "WPA2",
+        "signal_strength": -68,
+        "BSSID": "68:CA:E4:3F:9F:03"
+    },
+    {
+        "ssid": "HCT-CONSULTANTS",
+        "channel": 6,
+        "security": "WPA2",
+        "signal_strength": -69,
+        "BSSID": "68:CA:E4:3F:9F:09"
+    }
+]
